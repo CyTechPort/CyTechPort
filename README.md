@@ -1,59 +1,67 @@
-<h1>Hi, I'm Christine! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Welcome to My GitHub Profile!
 
-<h2>Professional Certifications</h2>
+Hello! I’m Christine, a passionate cybersecurity professional with a keen interest in threat detection, identity management, and cloud security. I love to explore new technologies and contribute to projects that enhance security and efficiency.
 
-<h2>Continued Learning:</h2>
+---
 
-<h2>👨‍💻 Cloud Network Security Projects:</h2>
-- <b>Active Directory Home Lab</b>
+## Professional Certifications
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- **CompTIA Security+**
+- **Azure Security Engineer (AZ-500)**
+- **CompTIA Network+**
+- **Azure Administrator Associate (AZ-104)**
+- **Comptia CYSA+ (in progress)**
+- **Splunk Core Certified Power User (in progress)**
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+### 1. **Nessus Vulnerability Management**
+   - **Description**: Set up and configured Nessus to scan networks for vulnerabilities, analyze results, and recommend remediation steps.
+   - **Technologies Used**: Nessus, Vulnerability Management Tools.
+   - [View Project](https://github.com/CyTechPort/Nessus-Vulnerability-Management)
 
-<h2> 🤳 Connect with me:</h2>
+### 2. **Malware Scanner Using Python**
+   - **Description**: Developed a Python-based malware scanner that detects and reports malicious files using heuristic analysis.
+   - **Technologies Used**: Python, File I/O.
+   - [View Project](https://github.com/CyTechPort/Python-Malware-Scanner)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 3. **Simple Azure Home Lab**
+   - **Description**: Created a home lab environment using Microsoft Azure to experiment with cloud services and deploy virtual machines.
+   - **Technologies Used**: Microsoft Azure, Virtual Machines, Networking.
+   - [View Project](https://github.com/CyTechPort/Simple-Azure-Home-Lab)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### 4. **Wireshark Traffic Analysis**
+   - **Description**: Captured and analyzed network traffic to identify protocols, detect anomalies, and understand network behavior.
+   - **Technologies Used**: Wireshark, TCP/IP, Linux.
+   - [View Project](https://github.com/CyTechPort/Wireshark-Network-Traffic-Analysis)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on...
+  - A Master's degree in cybersecurity and working on relevant certifications to enhance my skills in the field.
+- 🌱 I’m currently learning...
+  - Penetration testing techniques and tools to enhance my cybersecurity skills.
 - 👯 I’m looking to collaborate on ...
+  - Open-source security projects, especially those focused on vulnerability detection and remediation. I’m particularly interested in working with others on enhancing malware detection techniques and building useful security tools.
 - 🤔 I’m looking for help with ...
+  - Improving my penetration testing skills, understanding advanced cybersecurity tools, learning to code, and diving into web security as I prepare for capture-the-flag (CTF) competitions.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  - My experiences with network security, Splunk, and setting up cloud environments. I'm also happy to discuss best practices in vulnerability management and incident response.
 - ⚡ Fun fact: ...
--->
+  - I love spending my weekends hiking and exploring nature; it’s a great way to recharge and find inspiration for my tech projects.
+
+
+---
+
+## Connect With Me
+
+I’d love to connect! Feel free to reach out through any of the platforms below:
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/cmbatech/)
+- **Email**: [cmbatech@gmail.com](mailto:cmbatech@gmail.com)
+- **Website**: [CyTechPort.com](CyTechPort.com)
+
+---
+
+Thank you for visiting my GitHub profile! I look forward to collaborating and sharing knowledge with fellow tech enthusiasts.
+```
